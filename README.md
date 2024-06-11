@@ -1,4 +1,4 @@
-
+![imagem](video.gif)
 Aplicação Web em PHP com Bootstrap 5 🌐  
 Visão Geral  
 Este projeto é uma pequena aplicação web desenvolvida utilizando Bootstrap 5. Ele consiste em três telas principais: a página inicial (index.php), a página de login (login.php) e a página de cadastro (cadastro.php).  
