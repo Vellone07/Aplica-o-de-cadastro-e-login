@@ -53,5 +53,5 @@
       <footer class="mt-auto text-dark-50" style="padding: 20px;">
         <p>Aplicação PHP com Bootstrap 5, by <a href="https://getbootstrap.com/" class="text-dark">Bootstrap</a>.</p>
         <p>Projeto criado por <a href="https://www.linkedin.com/in/davi-vellone-7a3760268/" class="text-dark">@Davi
-
+.
 
